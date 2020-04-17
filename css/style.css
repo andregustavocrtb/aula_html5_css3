@@ -1,0 +1,35 @@
+
+body{
+    background: pink;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 70px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    width: 30px;
+}
+
+h1{
+    color: brown;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 20px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
